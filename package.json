@@ -1,0 +1,19 @@
+{
+  "name": "learning-GraphQL-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "graphql": "^16.9.0",
+    "graphql-http": "^1.22.1",
+    "nodemon": "^3.1.4",
+    "ruru": "2.0.0-beta.13"
+  }
+}
