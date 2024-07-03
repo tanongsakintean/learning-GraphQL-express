@@ -1,10 +1,82 @@
-[{"id":1,"first_name":"Valeria","last_name":"Charrington","email":"vcharrington0@virginia.edu","gender":"Female","ip_address":"172.2.67.114"},
-{"id":2,"first_name":"Alana","last_name":"Cleary","email":"acleary1@xing.com","gender":"Female","ip_address":"28.67.53.144"},
-{"id":3,"first_name":"Curry","last_name":"Catton","email":"ccatton2@hexun.com","gender":"Male","ip_address":"130.138.214.238"},
-{"id":4,"first_name":"Lionello","last_name":"Murkin","email":"lmurkin3@google.com.br","gender":"Male","ip_address":"126.161.174.32"},
-{"id":5,"first_name":"Paige","last_name":"Pagen","email":"ppagen4@addthis.com","gender":"Female","ip_address":"99.147.118.13"},
-{"id":6,"first_name":"Laurette","last_name":"Leachman","email":"lleachman5@salon.com","gender":"Polygender","ip_address":"7.66.210.175"},
-{"id":7,"first_name":"Hollie","last_name":"Vel","email":"hvel6@baidu.com","gender":"Female","ip_address":"47.52.35.227"},
-{"id":8,"first_name":"Sayre","last_name":"Hattoe","email":"shattoe7@cbslocal.com","gender":"Female","ip_address":"9.128.66.184"},
-{"id":9,"first_name":"Hally","last_name":"Mordacai","email":"hmordacai8@nationalgeographic.com","gender":"Female","ip_address":"240.214.115.206"},
-{"id":10,"first_name":"Ricard","last_name":"Vedeniktov","email":"rvedeniktov9@tmall.com","gender":"Male","ip_address":"175.208.138.122"}]
+[
+  {
+    "id": 1,
+    "first_name": "Valeria",
+    "last_name": "Charrington",
+    "email": "vcharrington0@virginia.edu",
+    "gender": "Female",
+    "ip_address": "172.2.67.114"
+  },
+  {
+    "id": 2,
+    "first_name": "Alana",
+    "last_name": "Cleary",
+    "email": "acleary1@xing.com",
+    "gender": "Female",
+    "ip_address": "28.67.53.144"
+  },
+  {
+    "id": 3,
+    "first_name": "Curry",
+    "last_name": "Catton",
+    "email": "ccatton2@hexun.com",
+    "gender": "Male",
+    "ip_address": "130.138.214.238"
+  },
+  {
+    "id": 4,
+    "first_name": "Lionello",
+    "last_name": "Murkin",
+    "email": "lmurkin3@google.com.br",
+    "gender": "Male",
+    "ip_address": "126.161.174.32"
+  },
+  {
+    "id": 5,
+    "first_name": "Paige",
+    "last_name": "Pagen",
+    "email": "ppagen4@addthis.com",
+    "gender": "Female",
+    "ip_address": "99.147.118.13"
+  },
+  {
+    "id": 6,
+    "first_name": "Laurette",
+    "last_name": "Leachman",
+    "email": "lleachman5@salon.com",
+    "gender": "Polygender",
+    "ip_address": "7.66.210.175"
+  },
+  {
+    "id": 7,
+    "first_name": "Hollie",
+    "last_name": "Vel",
+    "email": "hvel6@baidu.com",
+    "gender": "Female",
+    "ip_address": "47.52.35.227"
+  },
+  {
+    "id": 8,
+    "first_name": "Sayre",
+    "last_name": "Hattoe",
+    "email": "shattoe7@cbslocal.com",
+    "gender": "Female",
+    "ip_address": "9.128.66.184"
+  },
+  {
+    "id": 9,
+    "first_name": "Hally",
+    "last_name": "Mordacai",
+    "email": "hmordacai8@nationalgeographic.com",
+    "gender": "Female",
+    "ip_address": "240.214.115.206"
+  },
+  {
+    "id": 10,
+    "first_name": "Ricard",
+    "last_name": "Vedeniktov",
+    "email": "rvedeniktov9@tmall.com",
+    "gender": "Male",
+    "ip_address": "175.208.138.122"
+  }
+]
